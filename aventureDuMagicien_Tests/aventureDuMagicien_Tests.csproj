@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AventureDuMagicien_Ben_John\AventureDuMagicien_Ben_John.csproj" />
+    <ProjectReference Include="..\AventureDuMagicien\AventureDuMagicien.csproj" />
   </ItemGroup>
 
   <ItemGroup>

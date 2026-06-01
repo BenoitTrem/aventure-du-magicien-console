@@ -1,9 +1,6 @@
-﻿using AventureDuMagicien_Ben_John.Models;
-using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using AventureDuMagicien.Models;
 
-namespace AventureDuMagicien_Ben_John.Data
+namespace AventureDuMagicien.Data
 {
     public static class SortRepository
     {

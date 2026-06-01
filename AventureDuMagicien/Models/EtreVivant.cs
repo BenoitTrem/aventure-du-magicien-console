@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace AventureDuMagicien_Ben_John.Models
+﻿namespace AventureDuMagicien.Models
 {
     public class EtreVivant
     {

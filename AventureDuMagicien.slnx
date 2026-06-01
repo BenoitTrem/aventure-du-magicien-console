@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AventureDuMagicien/AventureDuMagicien.csproj" />
+  <Project Path="aventureDuMagicien_Tests/aventureDuMagicien_Tests.csproj" />
+</Solution>

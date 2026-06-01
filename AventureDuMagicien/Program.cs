@@ -1,5 +1,4 @@
-﻿using AventureDuMagicien_Ben_John.Models;
-using System;
+﻿using AventureDuMagicien.Models;
 
 Console.Clear();
 Console.WriteLine("=============================================");

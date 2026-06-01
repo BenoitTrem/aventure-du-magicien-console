@@ -1,10 +1,7 @@
 ﻿using AventureDuMagicien.Models;
-using AventureDuMagicien_Ben_John.Data;
-using System;
-using System.Collections.Generic;
-using static AventureDuMagicien.Models.Magicien;
+using AventureDuMagicien.Data;
 
-namespace AventureDuMagicien_Ben_John.Models
+namespace AventureDuMagicien.Models
 {
     public class Jeu
     {

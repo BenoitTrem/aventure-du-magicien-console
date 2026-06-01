@@ -1,9 +1,4 @@
-﻿using AventureDuMagicien_Ben_John.Models;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace AventureDuMagicien.Models
+﻿namespace AventureDuMagicien.Models
 {
     public class SelecteurListe
     {

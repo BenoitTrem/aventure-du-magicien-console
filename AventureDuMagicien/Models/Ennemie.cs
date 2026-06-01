@@ -1,9 +1,5 @@
 ﻿using AventureDuMagicien.Interface;
-using AventureDuMagicien_Ben_John.Models;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
+using AventureDuMagicien.Models;
 
 namespace AventureDuMagicien.Models
 {
